@@ -19,5 +19,5 @@
   <AutoApply>True</AutoApply>
   <DesiredZoom>20</DesiredZoom>
   <DesiredFov>0.78</DesiredFov>
-  <OffsetUpdateLocation>https://pastebin.com/raw/3d1GnmYf</OffsetUpdateLocation>
+  <OffsetUpdateLocation>https://raw.githubusercontent.com/idenpa/ErozeaZoomOffset/main/Offset.txt</OffsetUpdateLocation>
 </Root>
