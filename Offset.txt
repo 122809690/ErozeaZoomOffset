@@ -14,7 +14,7 @@
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2022-3-16 - 6.0-@iDenpa</LastUpdate>
+  <LastUpdate>2022-3-16 - 6.0</LastUpdate>
   <Version>2022.02.25.0000.0000</Version>
   <AutoApply>True</AutoApply>
   <DesiredZoom>20</DesiredZoom>
