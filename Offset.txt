@@ -8,14 +8,14 @@
     <FovMax>10C</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1F601B0</StructureAddress>
+    <StructureAddress>1F5D1B0</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2022-8-15 - 6.1 Hotfix</LastUpdate>
-  <Version>2022.08.11.0000.0000</Version>
+  <LastUpdate>2022-8-15 - 6.11 绝龙诗</LastUpdate>
+  <Version>2022.08.20.0000.0000</Version>
   <AutoApply>True</AutoApply>
   <DesiredZoom>20</DesiredZoom>
   <DesiredFov>0.78</DesiredFov>
