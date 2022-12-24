@@ -14,10 +14,10 @@
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2022-8-15 - 6.11 绝龙诗</LastUpdate>
+  <LastUpdate>2022-12-24 6.2 无人岛</LastUpdate>
   <Version>2022.08.20.0000.0000</Version>
   <AutoApply>True</AutoApply>
   <DesiredZoom>20</DesiredZoom>
   <DesiredFov>0.78</DesiredFov>
-  <OffsetUpdateLocation>https://raw.githubusercontent.com/idenpa/ErozeaZoomOffset/main/Offset.txt</OffsetUpdateLocation>
+  <OffsetUpdateLocation>https://raw.fastgit.org/122809690/ErozeaZoomOffset/main/Offset.txt</OffsetUpdateLocation>
 </Root>
